@@ -1,5 +1,8 @@
-import Image from "next/image";
 import Link from "next/link";
+import myHome from "./home/page";
+import About from "./about/page";
+import Info from "./info/page";
+import Contact from "./contact/page";
 
 export default function Home() {
   return (
