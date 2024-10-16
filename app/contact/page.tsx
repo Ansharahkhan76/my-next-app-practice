@@ -30,7 +30,7 @@ function Contact(){
                              Quidem delectus modi totam ea provident nulla deleniti a perferendis corrupti rem id, eveniet vel 
                              ipsum est mollitia omnis esse voluptatem.</p></div>
                 </div>
-            </div>>
+            </div>
         </div>
     )
 }
